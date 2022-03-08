@@ -8,4 +8,4 @@ Some of my current projects working on;<br>
   
 To get in touch follow me on [Twitter](https://twitter.com/cnerdogan), [Linkedin](https://www.linkedin.com/in/canerdogan) or write an [email](mailto:can@canerdogan.net).
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=canerdogan&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=canerdogan&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
