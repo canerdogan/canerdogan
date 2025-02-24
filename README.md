@@ -1,11 +1,13 @@
-### Hi there 👋
+### Who I am
 
-I am an enthusiastic software developer for web, mobile and desktop applications and entrepreneur based in Istanbul, Turkey.
+A seasoned technology leader with almost 20 years of experience in software development, product management, and technology leadership.
+
+I am possessing a robust background in AI, both backend and frontend technologies, cloud services, mobile development, and cybersecurity. Proven track record of driving technical innovation, optimizing development processes, and delivering scalable software solutions. Adept at leading cross-functional teams and implementing best practices to achieve organizational goals.
+
+Passionate about Machine Learning / AI, Gamification, Analytics, and SaaS solutions.
 
 Some of my current projects working on;<br>
-- [**Mukellef**](https://mukellef.co) - The most comprehensive platform in Turkey to start a new business.
-- [**Wopsy**](https://wopsy.co) - Wopsy's AI makes it easy to decode customer behavior, so you can reduce churn and drive revenue with precision.
+- [**GameByte**](https://gamebyte.ai) - Prompt-to-game, game development with agentic AI
+- [**GameIdea**](https://gameidea.ai) - Prompt-to-game idea, transform your game ideas into detailed designs with our AI-powered platform
   
-To get in touch follow me on [Twitter](https://twitter.com/cnerdogan), [Linkedin](https://www.linkedin.com/in/canerdogan) or write an [email](mailto:can@canerdogan.net).
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=canerdogan&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+To get in touch follow me on [Twitter](https://twitter.com/cnerdogan), [Linkedin](https://www.linkedin.com/in/canerdogan)
