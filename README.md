@@ -7,7 +7,7 @@ I am possessing a robust background in AI, both backend and frontend technologie
 Passionate about Machine Learning / AI, Gamification, Analytics, and SaaS solutions.
 
 Some of my current projects working on;<br>
-- [**GameByte**](https://gamebyte.ai) - Prompt-to-game, game development with agentic AI
+- [**onGame**](https://onGame.ai) - Prompt-to-game, game development with agentic AI
 - [**GameIdea**](https://gameidea.ai) - Prompt-to-game idea, transform your game ideas into detailed designs with our AI-powered platform
   
 To get in touch follow me on [Twitter](https://twitter.com/cnerdogan), [Linkedin](https://www.linkedin.com/in/canerdogan)
